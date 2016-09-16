@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Game Updater.exe" version="1.0.0.0" publicKeyToken="2ade0c6fb028de6c" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="ico.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Game Updater" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Game Updater.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Game Updater.exe" size="1852416">
+      <assemblyIdentity name="Game Updater" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>smgx4XeUXsoyvYh6WaFXX4c6NnI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ico.ico" size="595046">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>QMnz7s9ow3Upm6xyk7dONCT8EOQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SecretPC\Mr.Deff" issuerKeyHash="c209c3b2af51cb048d7f8f64b26938fb88f0ebef" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>FQmT/DL/U1CSoBfMvttGUMwvmkU=</DigestValue></Reference></SignedInfo><SignatureValue>uA9VKWdjVBGFLL9EJpVaBMgeWyBD0O2a+Q6dPs/JHBSQfi85bXBQG/IZt2MihhiDQ7m7umOrs1IORBWYAlEjI6Z60XoQzWu+R84PV2iE3tFGmmmf5RxY7NCKlUIhqqQcoi0X/z6wTbOPvYElbhBJEqj+26urqEDntZRntBCWYsM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1Q4De+WYQnvScGX/4An+ljEsbm0OsvdSNeKudnW/JLQ4qXj5tiMJ3DulkPY56NRB5llfsrDl1jhDesXuqwjGEHpvV2L00JNfgHD7DHTvpcQ8A7O1rqUXnDPDPJBISY1eaK2uhZJaEk19Nz/lVSZfm1TOaB1cgtfOk2gYBeZ+CE8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="459a2fcc5046dbbecc17a0925053ff32fc930915" Description="" Url=""><as:assemblyIdentity name="Game Updater.exe" version="1.0.0.0" publicKeyToken="2ade0c6fb028de6c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SecretPC\Mr.Deff</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iUUkeMy/GXHn82vab91UXVOyiZo=</DigestValue></Reference></SignedInfo><SignatureValue>jleugdGEMJoK7HVI5NCi4dzHBgmU1nz6A2CjoSEylQ+7ystwd/g8JUlwKgnB+/OPzpfIcYYIxOXEGmAJk9fMTRomPOIPy9lZsvwNT4RzbIw+JdwjPeMMdSFmEV8LDBLiBky02RuXoj2MTylaxTQGm0NpVM7mu7p4zJR4g+WOFMk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1Q4De+WYQnvScGX/4An+ljEsbm0OsvdSNeKudnW/JLQ4qXj5tiMJ3DulkPY56NRB5llfsrDl1jhDesXuqwjGEHpvV2L00JNfgHD7DHTvpcQ8A7O1rqUXnDPDPJBISY1eaK2uhZJaEk19Nz/lVSZfm1TOaB1cgtfOk2gYBeZ+CE8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQVdLVm1b2O4lGa5u2X0d6mDANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAUwBlAGMAcgBlAHQAUABDAFwATQByAC4ARABlAGYAZjAeFw0xMDAxMjYxODQxMTlaFw0xMTAxMjcwMDQxMTlaMCsxKTAnBgNVBAMeIABTAGUAYwByAGUAdABQAEMAXABNAHIALgBEAGUAZgBmMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVDgN75ZhCe9JwZf/gCf6WMSxubQ6y91I14q52db8ktDipePm2IwncO6WQ9jno1EHmWV+ysOXWOEN6xe6rCMYQem9XYvTQk1+AcPsMdO+lxDwDs7WupRecM8M8kEhJjV5ora6FkloSTX03P+VVJl+bVM5oHVyC186TaBgF5n4ITwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBADpcS/izOBq89o6ek7jl1NsUA/ebAgvkkI3/0ivJPqxjKXW+0J3E7riItuQ8SWPf89zvLJUk8y83LbEEN6+o4LQ55H71PvCMCLFm/iGg0ZdacAinUBkSfOFETl6CAYcIKr1yrhTY8Wg2tsKMOvzXYPtYWic713lt4rqS5qgjUeJm</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

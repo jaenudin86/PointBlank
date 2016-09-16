@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C6DFF1BB-DBFD-4853-826B-C8873BDD487E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game</RootNamespace>
+    <AssemblyName>Game</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>server.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Core\bin\Release\Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Logger.cs" />
+    <Compile Include="Managers\NetworkManager.cs" />
+    <Compile Include="Managers\RoomManager.cs" />
+    <Compile Include="NetworkS.cs" />
+    <Compile Include="Network\BattleHandler.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_DAMAGE_DEFENSE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_DAMAGE_SABOTAGE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_ROOMINFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\FRIENDS\PROTOCOL_FRIEND_INFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\LOBBY\PROTOCOL_LOBBY_QUICKJOIN_REQ.cs" />
+    <Compile Include="Network\ClientPacket\opcode_3860_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_ENTER_CHANNELSELECT_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_ENTER_PROFILE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_LEAVE_PROFILE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_MISSION_BUY_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_MISSION_UPDATE_CARD_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_PLAYER_EXIT_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_USER_ENTER_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_BOMB_TAB_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_BOMB_UNTAB_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_BOT_CHANGELEVEL_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_BOT_RESPAWN_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_LEAVE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_EQUIPMENT_INFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_FRAG_INFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_PRESTARTBATTLE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_READYBATTLE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_RESPAWN_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_STARTBATTLE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\BATTLE\PROTOCOL_BATTLE_TIMER_SYNC_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CHAT\PROTOCOL_CHAT_NORMAL_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_CHECK_NAME_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_CREATE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_ENTER_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_INFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_LEAVE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_LIST_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_MEMBER_LIST2_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_MEMBER_LIST_REQ.cs" />
+    <Compile Include="Network\ClientPacket\CLAN\PROTOCOL_CLAN_REQUESITES_FOR_CREATE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\INVENTORY\PROTOCOL_INVENTORY_ENTER_REQ.cs" />
+    <Compile Include="Network\ClientPacket\INVENTORY\PROTOCOL_INVENTORY_LEAVE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\INVENTORY\PROTOCOL_INVENTORY_USE_ITEM_REQ.cs" />
+    <Compile Include="Network\ClientPacket\LOBBY\PROTOCOL_LOBBY_CREATE_PLAYER_REQ.cs" />
+    <Compile Include="Network\ClientPacket\LOBBY\PROTOCOL_LOBBY_CREATE_ROOM_REQ.cs" />
+    <Compile Include="Network\ClientPacket\LOBBY\PROTOCOL_LOBBY_ENTER_REQ.cs" />
+    <Compile Include="Network\ClientPacket\LOBBY\PROTOCOL_LOBBY_GET_ROOMINFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\LOBBY\PROTOCOL_LOBBY_GET_ROOMLIST_REQ.cs" />
+    <Compile Include="Network\ClientPacket\LOBBY\PROTOCOL_LOBBY_JOIN_ROOM_REQ.cs" />
+    <Compile Include="Network\ClientPacket\LOBBY\PROTOCOL_LOBBY_LEAVE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\ROOM\PROTOCOL_ROOM_CHANGE_INFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\ROOM\PROTOCOL_ROOM_CHANGE_PASSWORD_REQ.cs" />
+    <Compile Include="Network\ClientPacket\ROOM\PROTOCOL_ROOM_CHANGE_TEAM_REQ.cs" />
+    <Compile Include="Network\ClientPacket\ROOM\PROTOCOL_ROOM_CLOSE_SLOT_REQ.cs" />
+    <Compile Include="Network\ClientPacket\ROOM\PROTOCOL_ROOM_GET_PLAYER_INFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\ROOM\PROTOCOL_ROOM_HOST_CHANGE_TEAM_REQ.cs" />
+    <Compile Include="Network\ClientPacket\ROOM\PROTOCOL_ROOM_LOBBY_USER_LIST_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_SERVER_MESSAGE_ANNOUNCE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_SETTINGS_SAVE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\SHOP\PROTOCOL_SHOP_BUY_ITEM_REQ.cs" />
+    <Compile Include="Network\ClientPacket\SHOP\PROTOCOL_SHOP_ENTER_REQ.cs" />
+    <Compile Include="Network\ClientPacket\SHOP\PROTOCOL_SHOP_LEAVE_REQ.cs" />
+    <Compile Include="Network\ClientPacket\SHOP\PROTOCOL_SHOP_LIST_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_TUTORIAL_END_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_VOTEKICK_START_REQ.cs" />
+    <Compile Include="Network\GameNetwork.cs" />
+    <Compile Include="Network\ReceivePacket.cs" />
+    <Compile Include="Network\SendPacket.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_DAMAGE_DEFENSE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_DAMAGE_SABOTAGE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\FRIENDS\PROTOCOL_FRIEND_INFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_GET_ROOMINFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_QUICKJOIN_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_ROOM_PASSWORD_ERROR_ACK.cs" />
+    <Compile Include="Network\ServerPacket\MESSAGES\PROTOCOL_MESSENGER_CHECK_ACK.cs" />
+    <Compile Include="Network\ServerPacket\MESSAGES\PROTOCOL_MESSENGER_NOTE_LIST_ACK.cs" />
+    <Compile Include="Network\ServerPacket\opcode_3353_ACK.cs" />
+    <Compile Include="Network\ServerPacket\opcode_3860_ACK.cs" />
+    <Compile Include="Network\ServerPacket\opcode_3865_ACK.cs" />
+    <Compile Include="Network\ServerPacket\opcode_3867_ACK.cs" />
+    <Compile Include="Network\ServerPacket\opcode_3879_ACK.cs" />
+    <Compile Include="Network\ServerPacket\opcode_3890_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PACKET_LEVEL_UP_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_ENTER_CHANNELSELECT_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_ENTER_PROFILE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_LEAVE_PROFILE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_MISSION_BUY_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_MISSION_UPDATE_CARD_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_USER_ENTER_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_BOMB_TAB_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_BOMB_UNTAB_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_BOT_CHANGELEVEL_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_BOT_RESPAWN_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_CHANGE_NETWORK_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_END_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_EQUIPMENT_INFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_FRAG_INFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_LEAVE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_PRESTARTBATTLE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_READYBATTLE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_RESPAWN_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_ROOMINFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_ROUND_END_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_ROUND_START.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\PROTOCOL_BATTLE_STARTBATTLE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CHAT\PROTOCOL_CHAT_NORMAL_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_CHECK_NAME_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_CREATE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_ENTER_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_INFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_LEAVE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_LIST_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_MEMBER_LIST2_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_MEMBER_LIST_ACK.cs" />
+    <Compile Include="Network\ServerPacket\CLAN\PROTOCOL_CLAN_REQUESITES_FOR_CREATE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_GAME_CHANNEL_LIST.cs" />
+    <Compile Include="Network\ServerPacket\INVENTORY\PROTOCOL_INVENTORY_ADD_ITEM_ACK.cs" />
+    <Compile Include="Network\ServerPacket\INVENTORY\PROTOCOL_INVENTORY_DELET_ITEM_ACK.cs" />
+    <Compile Include="Network\ServerPacket\INVENTORY\PROTOCOL_INVENTORY_ENTER_ACK.cs" />
+    <Compile Include="Network\ServerPacket\INVENTORY\PROTOCOL_INVENTORY_LEAVE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_CREATE_PLAYER_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_CREATE_ROOM_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_ENTER_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_GET_ROOMLIST_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_JOIN_ROOM_ACK.cs" />
+    <Compile Include="Network\ServerPacket\LOBBY\PROTOCOL_LOBBY_LEAVE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_MESSAGE_ALL_PLAYERS_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_MISSION_COMPLETE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\ROOM\PROTOCOL_ROOM_CHANGE_PASSWORD_ACK.cs" />
+    <Compile Include="Network\ServerPacket\ROOM\PROTOCOL_ROOM_CHANGE_TEAM_ACK.cs" />
+    <Compile Include="Network\ServerPacket\ROOM\PROTOCOL_ROOM_GET_PLAYER_INFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\ROOM\PROTOCOL_ROOM_HOST_CHANGE_TEAM_ACK.cs" />
+    <Compile Include="Network\ServerPacket\ROOM\PROTOCOL_ROOM_INFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\ROOM\PROTOCOL_ROOM_LOBBY_USER_LIST_ACK.cs" />
+    <Compile Include="Network\ServerPacket\ROOM\PROTOCOL_ROOM_PLAYER_ENTER_ACK.cs" />
+    <Compile Include="Network\ServerPacket\ROOM\PROTOCOL_ROOM_TIMER_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_SERVER_MESSAGE_ANNOUNCE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\SHOP\PROTOCOL_SHOP_BUY_ITEM_ACK.cs" />
+    <Compile Include="Network\ServerPacket\SHOP\PROTOCOL_SHOP_ENTER_ACK.cs" />
+    <Compile Include="Network\ServerPacket\SHOP\PROTOCOL_SHOP_GET_GOODS_ACK.cs" />
+    <Compile Include="Network\ServerPacket\SHOP\PROTOCOL_SHOP_GET_ITEMS_ACK.cs" />
+    <Compile Include="Network\ServerPacket\SHOP\PROTOCOL_SHOP_GET_MATCHING_ACK.cs" />
+    <Compile Include="Network\ServerPacket\SHOP\PROTOCOL_SHOP_LEAVE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\SHOP\PROTOCOL_SHOP_TEST_1_ACK.cs" />
+    <Compile Include="Network\ServerPacket\SHOP\PROTOCOL_SHOP_TEST_2_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_TUTORIAL_END_ACK.cs" />
+    <Compile Include="Network\ServerPacket\BATTLE\VOTEKICK\PROTOCOL_VOTEKICK_START_ACK.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="server.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

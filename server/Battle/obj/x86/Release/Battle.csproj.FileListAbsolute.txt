@@ -1,0 +1,29 @@
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Battle\bin\Release\Battle.exe
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Battle\bin\Release\Battle.pdb
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Battle\obj\x86\Release\Battle.exe
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Battle\obj\x86\Release\Battle.pdb
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Battle\obj\x86\Release\Battle.csprojResolveAssemblyReference.cache
+T:\SVN\oznetwork\Battle\bin\Release\Battle.exe
+T:\SVN\oznetwork\Battle\bin\Release\Battle.pdb
+T:\SVN\oznetwork\Battle\obj\x86\Release\Battle.csprojResolveAssemblyReference.cache
+T:\SVN\oznetwork\Battle\obj\x86\Release\Battle.exe
+T:\SVN\oznetwork\Battle\obj\x86\Release\Battle.pdb
+C:\Users\Kirito\Desktop\svn\Battle\bin\Release\Battle.exe
+C:\Users\Kirito\Desktop\svn\Battle\bin\Release\Battle.pdb
+C:\Users\Kirito\Desktop\svn\Battle\obj\x86\Release\Battle.csprojResolveAssemblyReference.cache
+C:\Users\Kirito\Desktop\svn\Battle\obj\x86\Release\Battle.exe
+C:\Users\Kirito\Desktop\svn\Battle\obj\x86\Release\Battle.pdb
+T:\SVN\oznetwork\oznetwork\Battle\bin\Release\Battle.exe
+T:\SVN\oznetwork\oznetwork\Battle\bin\Release\Battle.pdb
+T:\SVN\oznetwork\oznetwork\Battle\obj\x86\Release\Battle.csprojResolveAssemblyReference.cache
+T:\SVN\oznetwork\oznetwork\Battle\obj\x86\Release\Battle.exe
+T:\SVN\oznetwork\oznetwork\Battle\obj\x86\Release\Battle.pdb
+G:\pb\Battle\bin\Release\Battle.exe
+G:\pb\Battle\bin\Release\Battle.pdb
+G:\pb\Battle\obj\x86\Release\Battle.exe
+G:\pb\Battle\obj\x86\Release\Battle.pdb
+F:\server\Battle\bin\Release\Battle.exe
+F:\server\Battle\bin\Release\Battle.pdb
+F:\server\Battle\obj\x86\Release\Battle.exe
+F:\server\Battle\obj\x86\Release\Battle.pdb
+F:\server\Battle\obj\x86\Release\Battle.csprojResolveAssemblyReference.cache

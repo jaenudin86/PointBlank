@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Game Updater">
+</Property><Property Name="Файл решения" Value="G:\!L2Master\updater\Game Updater\Game Updater.sln">
+</Property><Property Name="Файл параметров пользователя" Value="G:\!L2Master\updater\Game Updater\Game Updater.suo">
+</Property><Property Name="Date" Value="22 августа 2010 г.">
+</Property><Property Name="Time" Value="13:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Game Updater.sln" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Game Updater.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Game Updater.suo" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Game Updater.suo">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Game Updater.csproj" Description="Успешно создана резервная копия файла проекта: G:\!L2Master\updater\Game Updater\Backup\Game Updater.csproj">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Game Updater.csproj.user" Description="Резервная копия проекта успешно создана как G:\!L2Master\updater\Game Updater\Backup\Game Updater.csproj.user">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="CRC32.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\CRC32.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Main.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Main.Designer.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="ProcessAdUser.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\ProcessAdUser.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Program.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Crc32.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Crc32.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Deflate.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Deflate.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\DeflateStream.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\DeflateStream.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\GZipStream.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\GZipStream.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Inflate.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Inflate.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\InfTree.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\InfTree.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Tree.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Tree.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\EncryptionAlgorithm.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\EncryptionAlgorithm.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\Events.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\Events.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\Exceptions.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\Exceptions.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ExtractExistingFileAction.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ExtractExistingFileAction.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\FileSelector.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\FileSelector.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\Shared.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\Shared.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\WinZipAes.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\WinZipAes.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipConstants.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipConstants.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipCrypto.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipCrypto.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipDirEntry.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipDirEntry.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipEntry.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipEntry.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipEntry.Extract.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipEntry.Extract.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipEntry.Read.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipEntry.Read.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipEntry.Write.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipEntry.Write.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipErrorAction.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipErrorAction.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.AddUpdate.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.AddUpdate.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.Check.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.Check.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.Events.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.Events.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.Extract.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.Extract.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.Read.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.Read.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.Save.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.Save.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.SaveSelfExtractor.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.SaveSelfExtractor.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.Selector.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.Selector.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zip\ZipFile.x-IEnumerable.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zip\ZipFile.x-IEnumerable.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\Zlib.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\Zlib.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\ZlibCodec.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\ZlibCodec.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\ZlibConstants.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\ZlibConstants.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Zlib\ZlibStream.cs" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Zlib\ZlibStream.cs">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Properties\Settings.settings" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\close.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\close.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\close_act.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\close_act.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\SettingsOM.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\SettingsOM.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\Settings.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\Settings.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Game Updater_TemporaryKey.pfx" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Game Updater_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\bg_updater.png" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\bg_updater.png">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\FCPressed.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\FCPressed.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\FCOnMouse.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\FCOnMouse.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\FCEnabled.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\FCEnabled.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\FCDisabled.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\FCDisabled.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\CPressed.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\CPressed.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\COnMouse.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\COnMouse.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\CEnabled.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\CEnabled.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\CDisabled.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\CDisabled.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\SEnabled.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\SEnabled.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Resources\SDisabled.bmp" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Resources\SDisabled.bmp">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="ico.ico" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\ico.ico">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Main.resx" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Main.resx">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Properties\Resources.resx" Description="Успешно создана резервная копия файла G:\!L2Master\updater\Game Updater\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Game Updater.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Game Updater" Source="Game Updater.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Game Updater.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Game Updater.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Game Updater" Source="Game Updater.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

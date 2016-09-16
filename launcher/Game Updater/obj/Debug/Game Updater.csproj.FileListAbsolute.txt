@@ -1,0 +1,48 @@
+C:\Users\the__all\Desktop\Game Updater\obj\Debug\Game Updater.csprojResolveAssemblyReference.cache
+C:\Users\the__all\Desktop\Game Updater\obj\Debug\Game_Updater.Main.resources
+C:\Users\the__all\Desktop\Game Updater\obj\Debug\Game_Updater.Properties.Resources.resources
+C:\Users\the__all\Desktop\Game Updater\obj\Debug\Game Updater.csproj.GenerateResource.Cache
+C:\Users\the__all\Desktop\Game Updater\bin\Debug\PBUpdater.exe.manifest
+C:\Users\the__all\Desktop\Game Updater\bin\Debug\PBUpdater.application
+C:\Users\the__all\Desktop\Game Updater\bin\Debug\PBUpdater.exe
+C:\Users\the__all\Desktop\Game Updater\bin\Debug\PBUpdater.pdb
+C:\Users\the__all\Desktop\Game Updater\obj\Debug\PBUpdater.exe.manifest
+C:\Users\the__all\Desktop\Game Updater\obj\Debug\PBUpdater.application
+C:\Users\the__all\Desktop\Game Updater\obj\Debug\PBUpdater.exe
+C:\Users\the__all\Desktop\Game Updater\obj\Debug\PBUpdater.pdb
+G:\OZ-Network\лаунчеры\Game Updater\obj\Debug\PBUpdater.exe
+G:\OZ-Network\лаунчеры\Game Updater\obj\Debug\PBUpdater.pdb
+G:\OZ-Network\лаунчеры\Game Updater\bin\Debug\PBUpdater.exe.manifest
+G:\OZ-Network\лаунчеры\Game Updater\bin\Debug\PBUpdater.application
+G:\OZ-Network\лаунчеры\Game Updater\bin\Debug\PBUpdater.exe
+G:\OZ-Network\лаунчеры\Game Updater\bin\Debug\PBUpdater.pdb
+G:\OZ-Network\лаунчеры\Game Updater\obj\Debug\Game Updater.csprojResolveAssemblyReference.cache
+G:\OZ-Network\лаунчеры\Game Updater\obj\Debug\Game_Updater.Main.resources
+G:\OZ-Network\лаунчеры\Game Updater\obj\Debug\Game_Updater.Properties.Resources.resources
+G:\OZ-Network\лаунчеры\Game Updater\obj\Debug\Game Updater.csproj.GenerateResource.Cache
+G:\OZ-Network\лаунчеры\Game Updater\obj\Debug\PBUpdater.exe.manifest
+G:\OZ-Network\лаунчеры\Game Updater\obj\Debug\PBUpdater.application
+I:\OZ-Network\лаунчеры\Game Updater\obj\Debug\PBUpdater.exe
+I:\OZ-Network\лаунчеры\Game Updater\obj\Debug\PBUpdater.pdb
+I:\OZ-Network\лаунчеры\Game Updater\bin\Debug\PBUpdater.exe.manifest
+I:\OZ-Network\лаунчеры\Game Updater\bin\Debug\PBUpdater.application
+I:\OZ-Network\лаунчеры\Game Updater\bin\Debug\PBUpdater.exe
+I:\OZ-Network\лаунчеры\Game Updater\bin\Debug\PBUpdater.pdb
+I:\OZ-Network\лаунчеры\Game Updater\obj\Debug\Game Updater.csprojResolveAssemblyReference.cache
+I:\OZ-Network\лаунчеры\Game Updater\obj\Debug\Game_Updater.Main.resources
+I:\OZ-Network\лаунчеры\Game Updater\obj\Debug\Game_Updater.Properties.Resources.resources
+I:\OZ-Network\лаунчеры\Game Updater\obj\Debug\Game Updater.csproj.GenerateResource.Cache
+I:\OZ-Network\лаунчеры\Game Updater\obj\Debug\PBUpdater.exe.manifest
+I:\OZ-Network\лаунчеры\Game Updater\obj\Debug\PBUpdater.application
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\obj\Debug\PBUpdater.exe
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\obj\Debug\PBUpdater.pdb
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\obj\Debug\Game Updater.csprojResolveAssemblyReference.cache
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\obj\Debug\Game_Updater.Main.resources
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\obj\Debug\Game_Updater.Properties.Resources.resources
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\obj\Debug\Game Updater.csproj.GenerateResource.Cache
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\bin\Debug\PBUpdater.exe.manifest
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\bin\Debug\PBUpdater.application
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\bin\Debug\PBUpdater.exe
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\bin\Debug\PBUpdater.pdb
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\obj\Debug\PBUpdater.exe.manifest
+T:\SVN\oznetwork\oznetwork\Launcher\Game Updater\obj\Debug\PBUpdater.application

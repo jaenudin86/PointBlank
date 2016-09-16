@@ -1,0 +1,27 @@
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\obj\Debug\PBUpdater.exe
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\obj\Debug\PBUpdater.pdb
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\bin\Debug\PBUpdater.exe.manifest
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\bin\Debug\PBUpdater.application
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\bin\Debug\PBUpdater.exe
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\bin\Debug\PBUpdater.pdb
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\obj\Debug\Game_Updater.Error.resources
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\obj\Debug\Game_Updater.Main.resources
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\obj\Debug\Game_Updater.Properties.Resources.resources
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\obj\Debug\Launcher.csproj.GenerateResource.Cache
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\obj\Debug\PBUpdater.exe.manifest
+C:\Users\skyimvu\Desktop\Launcher\Launcher 100%\Game Updater\obj\Debug\PBUpdater.application
+C:\Users\skyimvu\Desktop\Launcher\LAUNCHER ORIGINAL\Launcher 100%\Game Updater\obj\Debug\PBUpdater.exe
+C:\Users\skyimvu\Desktop\Launcher\LAUNCHER ORIGINAL\Launcher 100%\Game Updater\obj\Debug\PBUpdater.pdb
+F:\launcher\Game Updater\obj\Debug\PBUpdater.exe
+F:\launcher\Game Updater\obj\Debug\PBUpdater.pdb
+F:\launcher\Game Updater\bin\Debug\PBUpdater.exe.manifest
+F:\launcher\Game Updater\bin\Debug\PBUpdater.application
+F:\launcher\Game Updater\bin\Debug\PBUpdater.exe
+F:\launcher\Game Updater\bin\Debug\PBUpdater.pdb
+F:\launcher\Game Updater\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+F:\launcher\Game Updater\obj\Debug\Game_Updater.Error.resources
+F:\launcher\Game Updater\obj\Debug\Game_Updater.Main.resources
+F:\launcher\Game Updater\obj\Debug\Game_Updater.Properties.Resources.resources
+F:\launcher\Game Updater\obj\Debug\Launcher.csproj.GenerateResource.Cache
+F:\launcher\Game Updater\obj\Debug\PBUpdater.exe.manifest
+F:\launcher\Game Updater\obj\Debug\PBUpdater.application

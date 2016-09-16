@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Maps>
+	<Map ID="1"  MapID="0x01" Name="TD_PORTAKABA" Special="0" Aviable="true" />
+	<Map ID="2"  MapID="0x02" Name="TD_REDROCK" Special="0" Aviable="true" />
+	<Map ID="3"  MapID="0x03" Name="TD_LIBRARY" Special="0" Aviable="true" />
+	<Map ID="4"  MapID="0x02" Name="TD_REDROCK" Special="0" Aviable="true" />
+	<Map ID="5"  MapID="0x02" Name="TD_REDROCK" Special="0" Aviable="true" />
+	<Map ID="6"  MapID="0x02" Name="TD_REDROCK" Special="0" Aviable="true" />
+	<Map ID="7"  MapID="0x02" Name="TD_REDROCK" Special="0" Aviable="true" />
+	<Map ID="8"  MapID="0x02" Name="TD_REDROCK" Special="0" Aviable="true" />
+	<Map ID="9"  MapID="0x02" Name="TD_REDROCK" Special="0" Aviable="true" />
+	<Map ID="10" MapID="0x02" Name="TD_REDROCK" Special="0" Aviable="true" />
+</Mapsps>

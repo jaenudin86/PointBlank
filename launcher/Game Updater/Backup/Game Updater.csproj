@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{66993967-DDB2-417E-BCEE-7D2235C5C02D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game_Updater</RootNamespace>
+    <AssemblyName>Game Updater</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>ico.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>827349EF19AF88F13E33BDE3E197AAAE1C23FE86</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Game Updater_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CRC32.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessAdUser.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Zlib\Crc32.cs" />
+    <Compile Include="Zlib\Deflate.cs" />
+    <Compile Include="Zlib\DeflateStream.cs" />
+    <Compile Include="Zlib\GZipStream.cs" />
+    <Compile Include="Zlib\Inflate.cs" />
+    <Compile Include="Zlib\InfTree.cs" />
+    <Compile Include="Zlib\Tree.cs" />
+    <Compile Include="Zlib\Zip\EncryptionAlgorithm.cs" />
+    <Compile Include="Zlib\Zip\Events.cs" />
+    <Compile Include="Zlib\Zip\Exceptions.cs" />
+    <Compile Include="Zlib\Zip\ExtractExistingFileAction.cs" />
+    <Compile Include="Zlib\Zip\FileSelector.cs" />
+    <Compile Include="Zlib\Zip\Shared.cs" />
+    <Compile Include="Zlib\Zip\WinZipAes.cs" />
+    <Compile Include="Zlib\Zip\ZipConstants.cs" />
+    <Compile Include="Zlib\Zip\ZipCrypto.cs" />
+    <Compile Include="Zlib\Zip\ZipDirEntry.cs" />
+    <Compile Include="Zlib\Zip\ZipEntry.cs" />
+    <Compile Include="Zlib\Zip\ZipEntry.Extract.cs" />
+    <Compile Include="Zlib\Zip\ZipEntry.Read.cs" />
+    <Compile Include="Zlib\Zip\ZipEntry.Write.cs" />
+    <Compile Include="Zlib\Zip\ZipErrorAction.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.AddUpdate.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.Check.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.Events.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.Extract.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.Read.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.Save.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.SaveSelfExtractor.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.Selector.cs" />
+    <Compile Include="Zlib\Zip\ZipFile.x-IEnumerable.cs" />
+    <Compile Include="Zlib\Zlib.cs" />
+    <Compile Include="Zlib\ZlibCodec.cs" />
+    <Compile Include="Zlib\ZlibConstants.cs" />
+    <Compile Include="Zlib\ZlibStream.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_act.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingsOM.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ico.ico" />
+    <None Include="Game Updater_TemporaryKey.pfx" />
+    <None Include="Resources\bg_updater.png" />
+    <None Include="Resources\FCPressed.bmp" />
+    <None Include="Resources\FCOnMouse.bmp" />
+    <None Include="Resources\FCEnabled.bmp" />
+    <None Include="Resources\FCDisabled.bmp" />
+    <None Include="Resources\CPressed.bmp" />
+    <None Include="Resources\COnMouse.bmp" />
+    <None Include="Resources\CEnabled.bmp" />
+    <None Include="Resources\CDisabled.bmp" />
+    <None Include="Resources\SEnabled.bmp" />
+    <None Include="Resources\SDisabled.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{804EA3EA-E87C-4E39-BC22-DFA1D48201D2}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PointBlank</RootNamespace>
+    <AssemblyName>PointBlank</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>server.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Manager\FriendsManager.cs" />
+    <Compile Include="Manager\NetworkManager.cs" />
+    <Compile Include="Manager\QuestsManager.cs" />
+    <Compile Include="NetworkS.cs" />
+    <Compile Include="Network\Auth.cs" />
+    <Compile Include="Network\ClientPacket\opcode_2667_REQ.cs" />
+    <Compile Include="Network\ClientPacket\opcode_2678_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_AUTH_FRIEND_INFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_GET_MYINFO_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_LOGIN_WEBKEY_RUSSIA_REQ.cs" />
+    <Compile Include="Network\ClientPacket\PROTOCOL_BASE_USER_LEAVE_REQ.cs" />
+    <Compile Include="Network\ReceivePacket.cs" />
+    <Compile Include="Network\SendPacket.cs" />
+    <Compile Include="Network\ServerPacket\opcode_2667_ACK.cs" />
+    <Compile Include="Network\ServerPacket\opcode_2678_ack.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_AUTH_FRIEND_INFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_GET_MYINFO_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_GET_SETTINGS_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_LOGIN_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_BASE_USER_LEAVE_ACK.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_LOGIN_CHANNEL_LIST.cs" />
+    <Compile Include="Network\ServerPacket\PROTOCOL_MESSENGER_NOTE_LIST_ACK.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{31AB283D-B7B9-4E23-A0BC-01845642C5F0}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Game\Game.csproj">
+      <Project>{C6DFF1BB-DBFD-4853-826B-C8873BDD487E}</Project>
+      <Name>Game</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="server.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

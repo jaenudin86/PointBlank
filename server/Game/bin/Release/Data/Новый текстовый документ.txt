@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+<channel Id="0" Type="1" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="1" Type="1" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="2" Type="1" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="3" Type="1" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="4" Type="1" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="5" Type="1" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="6" Type="1" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="7" Type="1" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="8" Type="2" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+<channel Id="9" Type="2" Announce="ƒобро пожаловать на тестовый сервер OZNetwork"/>
+</list>

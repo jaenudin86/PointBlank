@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+<Card Id="0" Mission1="1" Type1="1" Mission2="1" Type2="2" Mission3="1" Type3="3" Mission4="1" Type4="4" EXP="100" Points="0" Item="0"/>
+<Card Id="1" Mission1="2" Type1="1" Mission2="2" Type2="2" Mission3="1" Type3="3" Mission4="1" Type4="4" EXP="100" Points="0" Item="0"/>
+<Card Id="2" Mission1="2" Type1="1" Mission2="1" Type2="2" Mission3="1" Type3="3" Mission4="1" Type4="4" EXP="100" Points="0" Item="0"/>
+<Card Id="3" Mission1="1" Type1="1" Mission2="1" Type2="2" Mission3="1" Type3="3" Mission4="2" Type4="4" EXP="100" Points="0" Item="0"/>
+<Card Id="4" Mission1="2" Type1="1" Mission2="1" Type2="2" Mission3="1" Type3="3" Mission4="1" Type4="4" EXP="100" Points="0" Item="0"/>
+<Card Id="5" Mission1="1" Type1="1" Mission2="2" Type2="2" Mission3="1" Type3="3" Mission4="3" Type4="4" EXP="100" Points="0" Item="0"/>
+<Card Id="6" Mission1="1" Type1="1" Mission2="2" Type2="2" Mission3="1" Type3="3" Mission4="1" Type4="4" EXP="100" Points="0" Item="0"/>
+<Card Id="7" Mission1="1" Type1="1" Mission2="2" Type2="2" Mission3="1" Type3="3" Mission4="1" Type4="4" EXP="100" Points="0" Item="0"/>
+<Card Id="8" Mission1="3" Type1="1" Mission2="1" Type2="2" Mission3="1" Type3="3" Mission4="1" Type4="4" EXP="200" Points="0" Item="0"/>
+<Card Id="9" Mission1="1" Type1="1" Mission2="2" Type2="2" Mission3="2" Type3="3" Mission4="1" Type4="4" EXP="200" Points="0" Item="0"/>
+</List>

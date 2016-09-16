@@ -1,0 +1,56 @@
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Game\obj\x86\Release\Game.csprojResolveAssemblyReference.cache
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Game\bin\Release\Game.exe
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Game\bin\Release\Game.pdb
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Game\bin\Release\Core.dll
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Game\bin\Release\MySql.Data.dll
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Game\bin\Release\Core.pdb
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Game\obj\x86\Release\Game.exe
+C:\Users\Артём\documents\visual studio 2010\Projects\PointBlank\Game\obj\x86\Release\Game.pdb
+T:\SVN\oznetwork\Game\obj\x86\Release\Game.csprojResolveAssemblyReference.cache
+T:\SVN\oznetwork\Game\obj\x86\Release\Game.exe
+T:\SVN\oznetwork\Game\obj\x86\Release\Game.pdb
+T:\SVN\oznetwork\Game\bin\Release\Game.exe
+T:\SVN\oznetwork\Game\bin\Release\Game.pdb
+T:\SVN\oznetwork\Game\bin\Release\Core.dll
+T:\SVN\oznetwork\Game\bin\Release\MySql.Data.dll
+T:\SVN\oznetwork\Game\bin\Release\Core.pdb
+C:\Users\Kirito\Desktop\svn\Game\bin\Release\Game.exe
+C:\Users\Kirito\Desktop\svn\Game\bin\Release\Game.pdb
+C:\Users\Kirito\Desktop\svn\Game\obj\x86\Release\Game.csprojResolveAssemblyReference.cache
+C:\Users\Kirito\Desktop\svn\Game\obj\x86\Release\Game.exe
+C:\Users\Kirito\Desktop\svn\Game\obj\x86\Release\Game.pdb
+C:\Users\Kirito\Desktop\svn\Game\bin\Release\MySql.Data.dll
+C:\Users\Kirito\Desktop\svn\Game\bin\Release\Core.pdb
+C:\Users\Kirito\Desktop\svn\Game\bin\Release\Core.dll
+T:\SVN\oznetwork\oznetwork\Game\bin\Release\Game.exe
+T:\SVN\oznetwork\oznetwork\Game\bin\Release\Game.pdb
+T:\SVN\oznetwork\oznetwork\Game\bin\Release\Core.dll
+T:\SVN\oznetwork\oznetwork\Game\bin\Release\MySql.Data.dll
+T:\SVN\oznetwork\oznetwork\Game\bin\Release\Core.pdb
+T:\SVN\oznetwork\oznetwork\Game\obj\x86\Release\Game.csprojResolveAssemblyReference.cache
+T:\SVN\oznetwork\oznetwork\Game\obj\x86\Release\Game.exe
+T:\SVN\oznetwork\oznetwork\Game\obj\x86\Release\Game.pdb
+G:\pb\Game\bin\Release\Game.exe
+G:\pb\Game\bin\Release\Game.pdb
+G:\pb\Game\obj\x86\Release\Game.exe
+G:\pb\Game\obj\x86\Release\Game.pdb
+G:\projects\пиратство\source\Game\bin\Release\Game.exe
+G:\projects\пиратство\source\Game\bin\Release\Game.pdb
+G:\projects\пиратство\source\Game\bin\Release\Core.dll
+G:\projects\пиратство\source\Game\bin\Release\MySql.Data.dll
+G:\projects\пиратство\source\Game\bin\Release\Core.pdb
+G:\projects\пиратство\source\Game\obj\x86\Release\Game.csprojResolveAssemblyReference.cache
+G:\projects\пиратство\source\Game\obj\x86\Release\Game.exe
+G:\projects\пиратство\source\Game\obj\x86\Release\Game.pdb
+G:\pb\Game\bin\Release\Core.dll
+G:\pb\Game\bin\Release\MySql.Data.dll
+G:\pb\Game\bin\Release\Core.pdb
+G:\pb\Game\obj\x86\Release\Game.csprojResolveAssemblyReference.cache
+F:\server\Game\bin\Release\Game.exe
+F:\server\Game\bin\Release\Game.pdb
+F:\server\Game\bin\Release\Core.dll
+F:\server\Game\bin\Release\MySql.Data.dll
+F:\server\Game\bin\Release\Core.pdb
+F:\server\Game\obj\x86\Release\Game.csprojResolveAssemblyReference.cache
+F:\server\Game\obj\x86\Release\Game.exe
+F:\server\Game\obj\x86\Release\Game.pdb
