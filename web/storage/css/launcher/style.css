@@ -1,0 +1,460 @@
+html {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+body {
+	position:absolute;
+	left:0;
+	top:0;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	color:#fff;
+	border:0;
+	margin:0;
+	padding:0;
+	width:728px;
+	height:430px;
+	overflow:hidden;
+}
+#bg
+{
+   border: 0px #000000 solid;
+   position:absolute;left:0px;top:0px;width:728px;height:430px;z-index:0;
+   background: url(../../images/launcher/bg.png) 100% 100% repeat; /* Добавляем фон */
+}
+
+a, img { outline: 0}
+
+#tab1,
+#tab2,
+#tab3,
+#tab4,
+#tab5{
+	position:absolute;
+	top:0;
+	left:0;
+	width:726px;
+	height:286px;
+	z-index:1;
+	}
+
+#tab1 {background: top left no-repeat;}	
+#tab2 {background: top left no-repeat;}
+#tab3 {background: top left no-repeat;}
+#tab4 {background: top left no-repeat;}
+#tab5 {background: top left no-repeat;}
+	
+
+/*	
+
+background:url('http://allods.mail.ru/launcher/images/news_banners/big/ref_launcher.jpg?v=6') top left no-repeat;
+
+
+	background:url('http://www.allods.ru/launcher/images/news_banners/big/magic_lamp.jpg?v=2') top left no-repeat;
+	
+	background:url('http://allods.mail.ru/launcher/images/news_banners/big/3b.jpg?v=6') top left no-repeat;}
+
+
+#tab1{	background:url('http://www.allods.ru/launcher/images/news_banners/big/ban_develop.jpg') top left no-repeat;
+
+		*/
+#news-banners ul li a{
+	position:absolute;
+	z-index:200;
+	}	
+#tab1 a{
+	position:absolute;
+	width:438px;
+	top:95px;
+	height:110px;
+       left:250px;
+	}
+#tab2 a{
+	position:absolute;
+	width:350px;
+	top:80px;
+	height:120px;
+       left:370px;
+	}
+#tab3 a,
+#tab4 a,
+#tab5 a{
+	position:absolute;
+	width:450px;
+	top:80px;
+	height:140px;
+       left:270px;
+	}
+#tab5 a{left:240px;width:470px;}
+
+	a{text-decoration:none;}
+a img {
+	border:0
+	}
+	
+	#server_status 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: center;
+   position:absolute;left:280px;top:398px;width:433px;height:15px;text-align:center;z-index:4;
+}
+#server_status div
+{
+   text-align: center;
+}
+#donate
+{
+   position:absolute;left:17px;top:290px;width:223px;height:106px;z-index:15;
+   background:url("../../images/launcher/donate.png") left top;
+}
+#donate:after 
+{
+	content: "";
+    background: url(../../images/launcher/donate.png) left top;
+    background-position:left 106px;
+    opacity: 0;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    -moz-transition: opacity .3s ease-in;
+    -webkit-transition: opacity .3s ease-in;
+    -o-transition: opacity .3s ease-in;
+    -ms-transition: opacity .3s ease-in;
+    transition: opacity .3s ease-in;
+}
+#donate:hover:after
+{
+	background-position:left 106px;
+	opacity: 1;
+}
+
+#welcome,
+#nival,
+#astrum,
+.bill_link,
+.download_link {
+	position:absolute;
+	z-index:10;
+	}
+
+#welcome {
+	height:101px;
+	left:330px;
+	top:118px;
+	width:356px;
+	}
+
+#nival {
+	left:40px;
+	top:79px;
+	width:80px;
+	height:28px;
+	}
+
+#astrum {
+	display:none;
+	}
+
+
+#banner_prof{
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:725px;
+	height:286px;
+	background-position:top left;
+	background-repeat:no-repeat;
+	background-image:url('http://allods.mail.ru/launcher/images/news_banners/big/6.jpg');
+	z-index:1331;
+	}
+.dn{
+	display:none;
+	}
+
+#server_link{
+	position:absolute;
+	height:85px;
+	left:402px;
+	top:133px;
+	width:279px;
+	z-index:12;
+	}
+	
+#news-banners {
+	position:absolute;
+	left:0;
+	top:0px;
+	margin:0;
+	padding:0;
+	z-index:30;
+}
+
+	#news-banners li {
+		position:absolute;
+		width:134px;
+		height:58px;
+		overflow:hidden;
+		z-index:2;
+		top:220px;
+		list-style-type:none;
+	}
+		#news-banners li .selected div {
+			display:block;
+			position:absolute;
+			left:0;
+			top:0;
+			width:100%;
+			height:62px;
+			z-index:3;
+			background:url("http://allods.mail.ru/launcher/images/news_banners/banner_active.png") top left no-repeat;
+			}
+
+		#news-banners li a {
+			position:absolute;
+			top:0px;
+			width:100%;
+			height:62px;
+			z-index:4;
+			cursor:defaut;
+			}		
+		#news-banners li a{
+			outline: 0;
+			}
+			
+			
+	.first  {left:13px;}
+	.second {left:153px;}
+	.third  {left:293px;}
+	.fourth {left:433px;}
+	.fifth  {left:573px;}
+	
+			/*
+			
+			background-image:url("http://allods.mail.ru/launcher/images/news_banners/ref_launcher_small.gif?v=2")
+			
+background-image:url("http://allods.mail.ru/launcher/images/news_banners/ref_launcher_small.gif?v=2");	
+			background-image:url("http://allods.mail.ru/launcher/images/news_banners/ban3.gif?v=2");				background-image:url("http://allods.mail.ru/launcher/images/news_banners/jun_launcher_small.gif?v=2");	
+			background-image:url("http://allods.mail.ru/launcher/images/news_banners/ban_develop_small.gif?v=2");
+			background:url('http://www.allods.ru/launcher/images/news_banners/magic_lamp_small.gif?v=2');
+	
+			*/
+	.first a, .second a, .third a, .fourth a, .fifth a{
+		background-repeat:no-repeat;
+		background-position:0 -114px;
+		}
+	.first a:hover, .second a:hover, .third a:hover, .fourth a:hover, .fifth a:hover{
+		background-position:0 -58px;
+		}
+	.first .selected, .first .selected:hover,
+	.second .selected, .second .selected:hover,
+	.third .selected, .third .selected:hover,
+	.fourth .selected, .fourth .selected:hover,
+	.fifth .selected, .fifth .selected:hover{
+		background-position: 0 0;
+		}
+		
+#promo_gm_val{
+	font:bold 42px Georgia, Times, serif;
+	position:absolute;
+	right:150px;
+	width:175px;
+	top:127px;
+	color:#fff;
+
+	}
+#clou_xs {
+	position:relative;
+	width:375px;
+	height:64px;
+	background:#000 url(bg.jpg) no-repeat 0 0;
+	}
+#clock {
+	width:315px;
+	height:64px;
+	padding-top:4px;
+	text-align:right;
+	color:#0f3cc2;
+	font:bold 15px Georgia, Times, serif;
+	}
+#RemainsFullDays {
+	position:absolute;
+	right:83px;
+	top:188px;
+	}
+#RemainsFullHours {
+	position:absolute;
+	top:188px;
+	right:50px;
+	}
+#RemainsMinutes {
+	position:absolute;
+	top:188px;
+	right:32px;
+	}
+#lastSec {
+	position:absolute;
+	top:188px;
+	right:300px;
+	}	
+		
+	
+#news-title {
+	position:absolute;
+	left:294px;
+	top:297px;
+	font-size:14px;
+	font-weight:bold;
+	color:#f8ca1a;
+	white-space:nowrap;
+	}
+#news-title a{color:#F8CA1A;}
+#news-title a:hover{color:#ffdf49;text-decoration:underline;}
+#news-gradient {	
+	position:absolute;
+	left:589px;
+	top:318px;
+	width:51px;
+	height:66px;
+	z-index:4;
+	background:url('http://allods.mail.ru/launcher/images/news_gradient.png') top left no-repeat;
+	//background-image:none; 
+	//filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.allods.ru/launcher/images/news_gradient.png',sizingMethod=crop);
+	}		
+
+#news {
+	position:absolute;
+	left:289px;
+	top:321px;
+	margin:0;
+	padding:0;
+	width:421px;
+	height:70px;
+	font-size:12px;
+}
+	#news li {
+		position:relative;
+		list-style-type:none;
+		margin:0;
+		height:16px;
+		padding:0;
+		color:#fff;
+	}
+		#news li .date {
+			position:absolute;
+			top:0;
+			right:0;
+			z-index:5;
+		}
+		
+		#news li .content {	
+			position:absolute;
+			left:0;
+			top:0;
+			width:350px;
+			overflow:hidden;
+			z-index:3;
+		}
+		
+	#news a:link,
+	#news a:visited,
+	#news a:hover,
+	#news a:active {		
+		text-decoration:underline;
+		white-space:nowrap;
+	}
+				
+	#news a:link {
+			color:#fff;
+	}
+
+	#news a:visited,
+	#news a:hover {
+		color:#ffffff;
+	}
+	
+	#news a:active {
+		color:#fff;
+	}
+
+#social-icons {
+	padding:0;
+	margin:0;
+	position: absolute;
+	left: 290px;
+	top: 392px;
+	list-style-type: none;
+}
+	
+	#social-icons li {
+		width: 22px;
+		height: 32px;
+		float: left;
+		margin-right: 5px;
+		background: url('http://allods.mail.ru/launcher/images/social_icons.png') 0px 0px no-repeat;
+		}
+	
+#social-icons {
+	width: 434px;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	left: 290px;
+	top: 392px;
+	list-style-type: none;
+}
+	
+	#social-icons li {
+		width: 22px;
+		height: 32px;
+		float: left;
+		margin-right: 4px;
+		background: url('http://allods.mail.ru/launcher/images/social_icons.png') no-repeat;
+		}
+		
+		#social-icons li.vkontakte {background-position: 0px 0px;}
+		#social-icons li.facebook  {background-position: -23px 0px;}
+		#social-icons li.lj		   {background-position: -46px 0px;}
+		#social-icons li.li		   {background-position: -69px 0px;}
+		#social-icons li.futubra   {background-position: -92px 0px;}
+		#social-icons li.twitter   {background-position: -115px 0px;}
+		#social-icons li.yandex    {background-position: -138px 0px;}
+		#social-icons li.mail	   {background-position: -161px 0px;}
+		#social-icons li.youtube   {background-position: -184px 0px;}
+		#social-icons li.kat_gaid  {
+			width: 221px;
+			float: right;
+			background-position: -211px 0px;
+			}
+		
+		#social-icons li a {
+			width: 22px;
+			height: 32px;
+			display: block;
+			background-image: url('http://allods.mail.ru/launcher/images/space.png');
+			}
+		
+		#social-icons li.kat_gaid a {
+			width: 221px;
+			}
+		
+		#social-icons li.vkontakte:hover {background-position: 0px -32px;}
+		#social-icons li.facebook:hover  {background-position: -23px -32px;}
+		#social-icons li.lj:hover		 {background-position: -46px -32px;}
+		#social-icons li.li:hover		 {background-position: -69px -32px;}
+		#social-icons li.futubra:hover   {background-position: -92px -32px;}
+		#social-icons li.twitter:hover   {background-position: -115px -32px;}
+		#social-icons li.yandex:hover    {background-position: -138px -32px;}
+		#social-icons li.mail:hover		 {background-position: -161px -32px;}
+		#social-icons li.youtube:hover   {background-position: -184px -32px;}
+		#social-icons li.kat_gaid:hover  {background-position: -211px -32px;}
+
+*html #news li{
+	height:13px;
+	}
+*+html #news li{
+	height:13px;
+	}
+

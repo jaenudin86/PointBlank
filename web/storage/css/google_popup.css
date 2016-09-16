@@ -1,0 +1,50 @@
+.gpopup{
+  background: url('../images/google_popup.jpg');
+  width: 720px;
+  height: 298px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin: -149px 0 0 -360px;
+  z-index: 999;
+  padding: 30px 0 0 355px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: 'plumbcondensedregular';
+  display: none;
+}
+
+.gpopup_inner {
+  width: 280px ;
+  margin: auto;
+}
+
+.gpopup_lead {
+  display: block;
+  font-size: 27px;
+  line-height: 31px;
+  margin-bottom: 20px;
+}
+.gpopup_title {
+  display: block;
+  font-size: 30px;
+  line-height: 34px;
+  margin-bottom: 20px;
+}
+
+.gpopup_buttons {
+  overflow: hidden;
+}
+  .gpopup_btn {
+    width: 140px;
+    height: 44px;
+    font-size: 30px;
+    line-height: 44px;
+    display: inline-block;
+    margin: 0 -2px;
+    cursor: pointer;
+  }
+    .gpopup_btn:hover {
+      background: rgba(249,154,35,0.5);
+    }
