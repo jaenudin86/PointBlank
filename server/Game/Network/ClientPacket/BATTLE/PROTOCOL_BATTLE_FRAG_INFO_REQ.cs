@@ -105,7 +105,7 @@ namespace Game.Network.ClientPacket
                                         if (lastMessage != 4)
                                         {
                                             killer.repeatLastState = false;
-                                            killer.setOneTimeKills(0);
+                                            //killer.setOneTimeKills(0);
                                         }
 
                                         killer.setOneTimeKills(killer.getOneTimeKills() + 1);
