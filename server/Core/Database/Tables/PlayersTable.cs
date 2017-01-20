@@ -38,6 +38,11 @@ namespace Core.Database.Tables
                             GP = reader.GetInt32("GP"),
                             Money = reader.GetInt32("Money"),
                             Clan = ClansManager.Load().getClanById(reader.GetUInt64("ClanID")),
+                            Effect1 = reader.GetInt32("Effect1"), 
+                            Effect2 = reader.GetInt32("Effect2"),
+                            Effect3 = reader.GetInt32("Effect3"),
+                            Effect4 = reader.GetInt32("Effect4"),
+                            Effect5 = reader.GetInt32("Effect5"),
                         };
                         players.Add(player.AccountID, player);
                     }
@@ -70,6 +75,11 @@ namespace Core.Database.Tables
                             GP = reader.GetInt32("GP"),
                             Money = reader.GetInt32("Money"),
                             Clan = ClansManager.Load().getClanById(reader.GetUInt64("ClanID")),
+                            Effect1 = reader.GetInt32("Effect1"), 
+                            Effect2 = reader.GetInt32("Effect2"),
+                            Effect3 = reader.GetInt32("Effect3"),
+                            Effect4 = reader.GetInt32("Effect4"),
+                            Effect5 = reader.GetInt32("Effect5"),
                         };
                         players.Remove(PlayerID);// удаляем значение из коллекции
                         players.Add(player.AccountID, player);// добавляем обновленное значение в коллекцию
