@@ -225,7 +225,8 @@ namespace Game.Network
                 //ИНВЕНТАРЬ
                 case 3585: packets.Add(new PROTOCOL_INVENTORY_ENTER_REQ(this, buff)); break;
                 case 3589: packets.Add(new PROTOCOL_INVENTORY_LEAVE_REQ(this, buff)); break;
-                case 534: packets.Add(new PROTOCOL_INVENTORY_USE_ITEM_REQ(this, buff)); break;
+                case 534: // Even 536
+                case 536: packets.Add(new PROTOCOL_INVENTORY_USE_ITEM_REQ(this, buff)); break; // need for coupons marks and names.
                 //case 542: packets.Add(new PROTOCOL_INVENTORY_DELETE_ITEM_REQ(this, buff)); break;
                 //МАГАЗИН
                 case 2821: packets.Add(new PROTOCOL_SHOP_LIST_REQ(this, buff)); break;
