@@ -5,6 +5,6 @@
 <Item Id="10000003" Item="200004106" Credits="70" Points="0" Quantity="604800" Type="2" StockType="0" ItemType="0"/>
 <Item Id="10000004" Item="200004106" Credits="140" Points="0" Quantity="2592000" Type="2" StockType="0" ItemType="0"/>
 <Item Id="10000005" Item="300005071" Credits="0" Points="65000" Quantity="100" Type="1" StockType="0" ItemType="0"/>
-<Item Id="10000006" Item="100040001" Credits="0" Points="0" Quantity="1" Type="2" StockType="0" ItemType="0"/>
+<Item Id="10000006" Item="100040001" Credits="150" Points="0" Quantity="1" Type="2" StockType="0" ItemType="0"/>
 
 </List>
