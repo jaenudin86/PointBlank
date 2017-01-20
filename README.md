@@ -6,4 +6,4 @@
 [Install Guide](https://github.com/foxovsky/PointBlank/wiki)
 
 ## Authors
-@foxovsky and @Sojang
+[@foxovsky](https://github.com/foxovsky) and [@Sojang](https://github.com/Sojang)
