@@ -30,6 +30,11 @@ CREATE TABLE `players` (
   `GP` int(32) NOT NULL,
   `Money` int(32) NOT NULL,
   `ClanID` int(32) NOT NULL,
+  `Effect1` int(32) NOT NULL, //Coupon1
+  `Effect2` int(32) NOT NULL, //Coupon2
+  `Effect3` int(32) NOT NULL, //Coupon3
+   `Effect4` int(32) NOT NULL, //Coupon4 
+   `Effect5` int(32) NOT NULL, //Coupon5
   PRIMARY KEY (`PlayerID`),
   KEY `accountid` (`AccountID`),
   CONSTRAINT `accountid` FOREIGN KEY (`AccountID`) REFERENCES `accounts` (`AccountID`) ON DELETE NO ACTION ON UPDATE NO ACTION
