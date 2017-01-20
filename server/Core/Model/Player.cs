@@ -34,6 +34,12 @@ namespace Core.Model
         private GameNetwork _Client;
         public Clan Clan;
         public bool OnlineStatus = false;
+        public int Effect1;
+        public int Effect2;
+        public int Effect3;
+        public int Effect4;
+        public int Effect5;
+        
 
         public bool getOnline()
         {
@@ -199,6 +205,38 @@ namespace Core.Model
         {
             return Inventory.getItemById(id, PlayerID);
         }
+        
+       public int getEffect1(){
+           return Effect1;
+       }
+        public int getEffect2(){
+           return Effect2;
+       }
+        public int getEffect3(){
+           return Effect3;
+       }
+        public int getEffect4(){
+           return Effect4;
+       }
+        public int getEffect5(){
+           return Effect5;
+       }
+        public void setEffect1(int effectv){
+           Effect1 = effectv;
+        }
+        public void setEffect2(int effectv){
+           Effect2 = effectv;
+        }
+        public void setEffect3(int effectv){
+           Effect3 = effectv;
+        }
+         public void setEffect4(int effectv){
+           Effect4 = effectv;
+        }
+         public void setEffect5(int effectv){
+           Effect5 = effectv;
+        }
+           
 
     }
 }
