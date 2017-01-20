@@ -47,7 +47,11 @@ namespace Game.Network.ServerPacket
                             WriteD(roomSlot.getPlayer() == null || roomSlot.getPlayer().ClanID == 0 ? 0 : roomSlot.getPlayer().getPCCafe());//пк_кафе
                             WriteH(roomSlot.getPlayer() == null || roomSlot.getPlayer().ClanID == 0 ? (short)0 : (short)roomSlot.getPlayer().getEmblem());//Лычка
                             WriteS(roomSlot.getPlayer() == null || roomSlot.getPlayer().ClanID == 0 ? "" : roomSlot.getPlayer().Clan.Name, Clan.CLAN_NAME_SIZE);
-                            WriteH(0);
+                            WriteC((byte)roomSlot.getPlayer().getEffect1());
+                            WriteC((byte)roomSlot.getPlayer().getEffect2());
+                            WriteC((byte)roomSlot.getPlayer().getEffect3());
+                            WriteC((byte)roomSlot.getPlayer().getEffect4());
+                            WriteC((byte)roomSlot.getPlayer().getEffect5());
                             WriteC(0);
                             WriteC(0);
                         }
