@@ -3,5 +3,7 @@
 * This is Point Blank Server Emulator of [OZ-Network](https://github.com/oznetwork)
 * Client: Point Blank Brazil
 
-## Using
-[TCP Protect](https://github.com/foxovsky/tcpprotect)
+[Install Guide](https://github.com/foxovsky/PointBlank/wiki)
+
+## Authors
+@foxovsky and @Sojang
