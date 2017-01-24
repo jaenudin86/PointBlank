@@ -1,0 +1,792 @@
+1st Anniversarry
+
+
+100003142 Aug A3 1st Anniversarry
+200004121 Kriss 1st Anniversarry
+300005071 cheytac 1st anniversery
+400006033 M1887 1st Anniversarry
+
+
+4th anniversary
+
+
+100003160 Aug A3 Br 4th anniversary
+100018024 Dual Kriss 4th Anniversarry
+
+
+Black Series
+
+
+100003048 Aug a3 Preto
+200004039 Kriss S.V Preto
+300005026 L115a1 Black
+702023002 Soco Ingles Preto
+
+
+Bloody Series
+
+
+100003129 Aug A3 Bloody
+100003130 Aug A3 Gold Bloody
+300005057 CheyTac M200 Bloody
+
+
+Br Camo Series
+
+
+100003111 AUG A3 BR Camo
+100003151 TAR-21 BR Camo
+100003152 AK SOPMOD BR Camo
+200004114 P90 Ext. BR Camo
+300005065 L115A1 BR Camo
+601002047 Glock18 BR Camo
+601002048 Desert Eagle BR camo
+601014015 Dual Desert Eagle BR Camo
+1001002051 Hide Kopassus
+1001002052 Leopard Bope (+15% EXP & Point)
+
+
+Brazuca Series
+
+
+100003155 AUG A3 Brazuca
+200004138 P90 Brazuca
+200004139 Kriss SV Brazuca
+300005083 Cheytac M200 Brazuca
+400006037 M1887 Brazuca
+601002049 C. Phyton Brazuca
+702001052 Fang Blade Brazuca
+1104003178 Mascara Brazuca
+
+
+Cangaceiro Series
+
+
+100003173 Aug A3 Cangaceiro
+300005097 Cheytac Cangaceiro
+702001070 Combat Machete Cangaceiro
+?????????? Chapéu Cangaceiro
+
+
+Champion Series
+
+
+100003157 Aug A3 Champion
+200004142 Kriss S.V Champion
+200004143 Kriss Super V Champion Dummy
+300005084 Cheytac M200 Champion
+1103003006 Boina Champion Clan
+
+
+Chocolate
+
+
+803007009 Granada de Chocolate
+904007015 Kit Medico de Chocolate
+
+
+
+CNY Series
+
+
+100003180 AUG A3 CNY-2015
+200004172 Kriss S.V CNY-2015
+601002054 GL-06 CNY-2015
+702001073 ChineseCleaver CNY-2015
+702001074 ChineseCleaver CNY-2015 Dummy
+803007044 C5 CNY-2015
+
+
+Couple Breaker
+
+
+100003178 AUG A3 Couple Breaker
+200004170 Kriss S.V Couple Breaker
+300005099 CheyTac Couple Breaker
+
+
+Christmas Series
+
+
+702001024 Alcacuz
+803007020 Candy Grenade
+1105003001 Gorro Do Papai Noel
+
+
+Elite Series
+
+
+100003114 M4A1 Elite
+100003119 AK47 Elite
+100003146 G36C Elite
+300005075 PSG-1 Elite
+300005076 Dragunov Elite
+300005077 SVU Elite
+300005078 VSK94 Elite
+1006003032 Dino Elite
+1301570000 Dragunov Elite Supply Kit
+1301580000 PSG-1 Elite Supply Kit
+1301581000 VSK94 Elite Supply Kit
+1301577000 SPAS-15 Elite Randombox
+1301571000 SPAS-Elite Randombox
+1301557000 PSG-1 Elite RandomBox
+1301567000 SVU Elite RandomBox
+
+
+E-Sport Series
+
+
+100003063 AUG A3 E-Sport
+100003062 FAMAS G2 Commando E-Sports
+200004050 Kriss S.V E-Sport
+200004052 Kriss SV E-Sport
+300005033 L115A1 E-Sport
+702001049 Espada Arabe E-Sport
+
+
+EV Series
+
+
+100003073 SG 550 S EV
+100003074 AK SOPMOD EV
+100003075 AUG A3 EV
+100003076 AK-47 SI+ EV
+100003077 F-2000 SI EV
+100003078 AK-47 Ext EV
+100003079 M4A1 Ext EV
+100003080 M4A1 S. EV
+100003081 M4A1 SI EV
+500010008 RPD EV
+500010009 RPD SI EV
+
+
+Garena Series
+
+
+1001002047 Ken Eyes Garena
+1001002048 Acid Pool Garena
+1001001049 Tarantula Garena
+1001001050 Red Bulls Garena
+1104003124 Garena White Mask
+1104003123 Garena Red Mask
+1104003122 Garena Gold Mask 
+
+
+G E-Sport Series
+
+
+100003165 Aug A3 G ESport
+200004155 Kriss SV G E-Sport
+300005091 cheytac G E-Sport
+601014016 Dual D-Eagle G E-Sport
+702001065 Keris G E-Sport
+
+
+GRS Series
+
+
+100003097 Aug A3 GRS
+100003098 M4A1 GRS
+100003099 AK SOPMOD GRS
+100003100 Famas G2 GRS
+200004082 P90 MC GRS
+200004081 MP7 GRS
+200004083 Kriss S.V GRS
+200018020 Dual Kriss GRS
+300005052 Cheytac M200 GRS
+400006026 M1887 W GRS
+601002032 Desert Eagle GRS
+601014011 Dual Desert Eagle GRS
+702001037 Ballistic Knife GRS
+702015005 Faca de Osso GRS
+
+
+GRS2 Series
+
+
+100003183 Aug A3 GRS2
+200004175 Kriss GRS2
+300005100 Cheytac M200 GRS2
+702001075 BoneKnife GRS2
+702015007 BoneKnife GRS2
+
+
+GSL Series
+
+
+100003104 AUG A3 GSL
+100003105 Famas G2 Commando GSL
+200004087 Kriss S.V GSL
+200004089 P90 GSL 
+300005055 Cheytac M200 GSL
+1104003126 Mascara GSL
+
+
+GSL2014 Series
+
+
+100003149 Aug A3 GSL2014
+200004130 Kriss S.V GSL2014
+300005081 L115A1 GSL2014
+400006036 Keltec GSL2014
+702001051 Fang Blade GSL2014
+
+
+GSL2015 Series
+
+
+100003186 AUG-A3 GSL2015
+200004180 OA-93 GSL2015
+200004182 P90 GSL2015
+300005102 CheyTac M200 GSL2015
+400006049 M-1887 GSL2015
+
+
+Hallonween
+
+
+702023005 Pumpkin knuckles
+702001071 Goat Hammer
+803007042 Goat Grenade
+904007014 Kit Medico de Hallonween
+
+
+Inferno Series
+
+
+100003147 Aug A3 Inferno
+200004126 Kriss Inferno
+200004128 P90 inferno
+300005079 Cheytac M200 Inferno
+702001057 Fang blade inferno
+702001061 Fang Blade Inferno
+
+
+LATIN3 Series
+
+
+100003131 AUG A3 LATIN3
+200004113 P90 M.C LATIN3
+300005064 L115A1 LATIN3
+
+
+LATIN4 Series
+
+
+100003171 Aug a3 Latin4
+200004163 P90 Latin4
+300005096 Cheytac M200 Latin4
+
+
+Lion Heart Series
+
+
+400006041 M1887 Lion-Heart
+
+
+Mid-Night Series
+
+
+100003150 TAR-21 Midnight
+100003162 Tar-21 Midghnigt
+200004132 Kriss S.V. Midnight
+702001082 Arbian Sword Midnight
+1104003177 Mark Mid-night
+1104003186 Mascara Mid-Night
+
+
+Newborn Series
+
+
+100003184 Aug A3 newborn 2015
+200004125 P90 Newborn 2014
+
+
+Ongame Series
+
+
+100003188 Aug A3 Ongame
+200004185 Kriss Ongame
+200004187 P90 Ongame
+300005104 Cheytac M200 Ongame
+601002057 Dual-Eagle Ongame
+702001079 Fang Blade Ongame
+
+
+PBIC2012 Series
+
+
+100003071 AUG A3 PBIC2012 1D
+200004060 Kriss S.V PBIC2012 1D
+
+
+PBIC2013 Series
+
+
+100003120 AUG A3 PBIC2013
+100003122 AK47 PBIC2013
+100003121 M4A1 PBIC2013
+200004103 Kriss S.V. PBIC2013
+100018025 Dual Kriss S.V PBIC2013
+1104003130 Mascara PBIC2013
+1104003129 Mascara PBIC2013
+
+
+PBIC2014 Series
+
+
+100003159 AUG A3 PBIC2014
+200004146 P90 Ext. PBIC2014
+300005087 Cheytac M200 PBIC2014
+400006038 M1887 PBIC2014
+1104003182 PBIC2014 Mark 
+1301574000 PBIC2014 Random Box
+1301575000 PBIC2014 Supply kit
+
+
+PBNC Series
+
+
+100003101 AK SOPMOD PBNC
+200004086 P90 MC PBNC
+300005053 L115A1 PBNC
+400006027 M1887 PBNC
+601002033 Glock 18 PBNC
+702015006 Dual Knife PBNC
+702001042 M-9 PBNC
+
+
+PBNC5 Series
+
+
+100003148 AUG A3 PBNC5
+200004129 P90 Ext. PBNC5
+300005080 Cheytac M200 PBNC5
+400006035 M1887 PBNC5
+601002040 C. Phyton PBNC5
+702001050 Fang Blade PBNC5
+904007029 Kit Medico PBNC5
+1103003015 Boina PBNC5
+
+
+PBSC Series
+
+
+200004147 P90 PBSC
+200004077 P90 PBSC White
+400006040 Spas-15 PBSC
+601002050 RB 454 SS2M PBSC
+702001059 Combat Machete PBSC
+
+
+PBSC2014 Series
+
+
+200004153 KrissSuperV PBSC2014
+
+
+PBTN Series
+
+
+100003091 Famas G2 Commando PBTN
+100018019 Dual Kriss PBTN
+200004079 Kriss S.V PBTN
+300005050 L115A1 PBTN
+1103003010 Boina PBTN
+
+
+Pied Series
+
+
+100003161 AUG A3 Pied
+200004148 P90 M.C Pied
+300005088 L115A1 Pied
+
+
+Redemption Series
+
+
+100003189 AUG-A3 Redemption
+200004188 Kriss SV. Redemption
+300005105 Cheytac M200 Redemption
+803007047 K413 Redemption
+
+
+Reload Series
+
+
+100003116 F2000 Reload
+100003117 Sg-550 Reload
+100003118 Pindad SS2-V4 Para Sniper Reload
+200004097 UMP45 Reload
+200004096 AKS74U Reload
+200004098 Spectre Reload
+300005059 PSG-1 Reload
+601002035 Mk.23 reload
+601002036 Desert eagle Reload
+
+
+Russian Series
+
+
+100003092 Ak sopmod R
+100003144 AUG A3 R
+200004123 Kriss S.V R
+300005073 Cheytac M200 R
+400006034 M1887 R
+
+
+Sheep Series
+
+100003181 Aug A3 Sheep
+100003182 Tar-21 Sheep
+200004174 P90 M.C Sheep
+
+
+Toy Series
+
+
+200004157 Kriss SV Toy
+300005092 L115A1 Toy
+601002052 C.Python toy
+
+
+Turkey Series
+
+
+100003112 Aug A3 Turkey
+200004110 Kriss Turky
+1103003012 Turkish Beret
+
+
+W.O.E Series
+
+
+100003158 AUG A3 W.O.E 2014
+300005086 Cheytac M200 W.0.E
+300005086 Dragunov W.O.E
+200004144 Kriss S.V WOE
+
+
+World Cup Series
+
+
+1001002053 Hide 2014
+1001001054 Tarantula 2014
+803007033 Granada de Futebol
+
+X-MAS Series
+
+
+200004164 MP9 X-MAS
+200004168 Kriss X-MAS
+200004165 OA-93 X-MAS
+200004167 PP-19 X-MAS
+702001047 Keris XMAS
+1301591000 Collection X-MAS Gacha
+
+Zombie Series
+
+
+1104003132 Mascara de Zumbi
+702001066 Death Scythe
+400006042 Zombie Slayer
+
+Items Outros
+
+
+
+AK SOPMODs
+
+
+100003015 AK SOPMOD
+100003039 Ak sopmod D
+100003041 AK sopmod CG
+100003092 Ak sopmod R
+
+
+AK-47
+
+
+100003017 AK-47 Sl
+100003002 AK-47 Ext
+100003009 AK-47 G
+100003058 AK-47 F.C
+100003068 AK-47 F.C Red
+100003072 AK-47 OLD SPEC
+
+
+AUG A3
+
+
+100003036 AUG A3
+100003089 AUG A3 G
+100003093 AUG A3 Blaze
+100003109 AUG A3 TW1st
+100003128 Aug A3 Azerbaijan
+100003048 Aug a3 Preto
+100003040 Aug a3 D
+100003107 Aug A3 B
+100003106 AUG A3 White Italy
+
+
+Aureola de Anjo
+
+1104003127 Aureola de Anjo
+
+
+Badmintion Rocked
+
+
+702001064 Badmintion Rocked
+
+
+Barret M82A1
+
+
+300005032 Barret M82A1
+1301550000 Barrett GaChapon
+
+
+Boinas
+
+
+1103003003 Boina Franco Atirador
+1103003004 Boina Shotgun
+1103003005 Boina Pistoleiro
+1103003006 Boina Champion Clan
+1103003007 Boina Che-Vermelha
+1103003008 Boina Che-Amarela
+1103003009 Boina Che-Cruz
+1103003010 Boina PBTN
+1103003011 Boina Negra PB
+1103003012 Boina Turkish (BUG)
+1103003013 Boina Kopassus(BUG)
+1103003014 Boina Não Descoberto
+1103003015 Boina PBNC5
+
+
+Capacete
+
+
+1102003003 Capacete avançado
+1102003006 Capacete de rastreamento
+1102003007 Capacete avançado plus
+1102003008 Super capacete
+
+
+Cerberus
+
+
+400006047 Cerberus
+
+
+Chinese Cleaver D
+
+
+702001060 Chinese Cleaver D
+
+
+Chapéu De Cowboy
+
+
+1105003004 Chapéu De Cowboy
+
+
+Famas G2
+
+
+100003049 Famas G2
+100003050 Famas G2 Commando
+100003051 Famas G2 Sniper
+100003052 Famas G2 M203
+100003064 Famas G2 Commando G.
+100003087 Famas G2 Silver
+
+
+Full Custom
+
+
+200004114 AK-47 Full Custom 
+
+
+Bombas
+
+
+803007004 C-5
+803007006 C-5 D
+803007008 K-413
+803007009 Granada de Chocolate
+803007018 K-413 G
+803007020 Candy Grenade
+803007027 M14 Mine
+803007028 K-479
+803007030 Easter Day Egg
+803007033 Granada de Futebol
+803007036 K-413 Traditional
+803007038 Shuttle Grenade
+803007039 Sepaktakrew Grenade
+803007042 Goat Grenade
+803007044 C5 CNY-2015
+
+
+Medic Kit
+
+
+904007014 Kit Medico de Hallonween
+904007015 Kit Medico de Chocolate 
+904007021 Kit Medico PBNC5
+904007031 Kit Medico Easter Day
+904007032 Kit Medico Lotus 2014
+904007043 Kit Medico Kurma
+
+
+Mascaras
+
+
+1104003012 GOLD MASK
+1104003014 Mascara de Palhaço
+1104003023 MASK BRAZIL
+1104003039 Demonio Vermelho
+1104003071 Mascara de Dinossauro
+1104003096 TROLL MASK 1
+1104003097 MASCARA TROLL 2
+1104003098 TROLL MASK 3
+1104003101 MASCARA CRANIO FRAGIL G
+1104003121 Mascara da Morte
+1104003122 Garena Gold Mask 
+1104003123 Garena Red Mask
+1104003124 Garena White Mask
+1104003125 Egg Tarantula Mark
+1104003126 Mascara GSL
+1104003126 Mascara GSL
+1104003127 Egg RedBulls Mark 
+1104003129 PBNC5 Mask
+1104003130 PBIC2013 Mask
+1104003132 Mascara de Zumbi
+1104003175 Egg KeenEyes Mark
+1104003176 Egg Acidpol Mark
+1104003177 Mark Mid-night
+1104003178 Mascara Brazuca
+1104003182 PBIC2014 Mark 
+1104003186 Mascara Mid-Night
+
+
+Pá de Campo
+
+
+702001022 Pá de Campo
+
+
+Supply Kit & Randombox
+
+
+1301570000 Dragunov Elite Supply Kit
+1301578000 Assault Rifle
+1301575000 PBIC2014 Supply kit
+1301577000 SPAS-15 Elite Randombox
+1301571000 SPAS-Elite Randombox
+1301572000 G36C Elit Supply kit
+1301550000 Barrett GaChapon
+1301579000 SUBMACHINEGUN Gacha
+1301558000 Istanbul Tournament Ticket
+1301574000 PBIC2014 Random Box
+1301557000 PSG-1 Elite RandomBox
+1301582000 SVU Elite Supply Kit
+1301591000 Collection X-MAS Gacha
+1301564000 Flaming Random Box
+1301580000 PSG-1 Elite Supply Kit
+1301581000 VSK94 Elite Supply Kit
+1301567000 SVU Elite RandomBox
+
+
+Scar-L
+
+
+100003094 Scar-L Carbine 
+100003095 SCAR-L Recon
+100003096 SCAR-L F.C
+100003170 SCAR-L Carbine Gold
+100003175 SCAR-L Carabine D
+100003069 SCAR-H CQC
+
+
+Socos
+
+
+702023001 Soco
+702023002 Soco Ingles Preto
+702023003 Soco Ingles Brass
+702023004 Soco Ingles Silver
+702023005 Soco Ingles de Hallonween
+702023006 Soco Ingles com Espinhos
+702023007 Soco Ingles Ballock
+702023009 GarenaKnucle
+
+
+Tiger
+
+
+601002038 Desert eagle Tiger
+
+
+Cupons
+
+
+1300002001 Exp 30%
+1300003001 Exp 50%
+1300004001 Gold 30%
+1300017001 Pegar arma do oponente 
+1300026001 Troca Rapida 
+1300027001 Recarregamento rapido 
+1300031001 Bala de Ferro 
+1300035001 Explosivo Extra 
+1300038001 Gold 100%
+1300119001 Gold 50%
+1301047000 Trocar Nick 
+1301051000 Trocar Nome do Cla 
+1301052000 Troca Emblema do Cla 
+
+
+
+I Have not teste these IDs
+
+
+100001030 10% EXP UP
+100002030 30% EXP UP
+100003030 50% EXP UP
+100004030 30% points
+100005000 Clan Name Recolor
+100006000 Mudar Cor Name
+100007030 Respawn 30%
+100008030 Munição 40%
+100009030 Rank UP
+100010030 Nickname temporary
+100011030 Bom Perderdor
+100012030 Clan EXP 150%
+100013030 change Color sight
+100014030 change Color sight
+100015030 Color Chat
+100017030 Enemy Drop
+100018030 EXP 100% (12:00-15:00)
+100019030 EXP 100%(15:00-18:00)
+100020030 EXP 100%(18:00-21:00)
+100021030 EXP 100%(21:00-00:00)
+100022030 Gold 100%(12:00-15:00)
+100023030 Gold 100%(15:00-18:00)
+100024030 Gold 100%(18:00-21:00)
+100025030 Gold 100%(21:00-00:00)
+100026030 Change Speed
+100027030 reload 20%
+100028030 Hiper HP +10%
+100029030 invincible +1 sec
+100030030 Colete +5%
+100031030 Iron bullet
+100032030 Hallow Point
+100033030 Anti Flash BanG Mask
+100034030 C4 Speed Up
+100035030 Explosive Extra
+100036030 Hallow Point Plus
+100037030 EXP 200%
+100038030 GOLD 200%
+100040030 Life 5%
