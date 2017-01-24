@@ -5,5 +5,9 @@
 
 [Install Guide](https://github.com/foxovsky/PointBlank/wiki)
 
-## Authors
-[@foxovsky](https://github.com/foxovsky) and [@Sojang](https://github.com/Sojang)
+## About
+
+This is Open-Source Server Emulator. 
+
+Help enterprise? 
+Send your github-nickname to mail [foxovsky@yandex.com](mailto:foxovsky@yandex.com) . Im check and add you to contributors
