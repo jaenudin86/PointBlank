@@ -24,9 +24,9 @@ Remember to check back for any feedback, and drop a comment once requested chang
 
 Please *test your code* before committing changes/submitting a pull request.
 
-## About
-
+About
+========
 This is Open-Source Server Emulator. 
 
 Help enterprise? 
-Send your github-nickname to mail [foxovsky@yandex.com](mailto:foxovsky@yandex.com) . Im check and add you to contributors
+Send your github-nickname to [foxovsky@yandex.com](mailto:foxovsky@yandex.com) . Im check and add you to contributors.
