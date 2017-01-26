@@ -4,7 +4,7 @@ function smtpmail($mail_to, $subject, $message, $headers='') {
 
         //Настройки почты
         $config['smtp_username'] = 'no-reply@pointblank.pw';  //Смените на имя своего почтового ящика из ISPManager.
-        $config['smtp_password'] = '89296156920aleX89296156920';  //Измените пароль.
+        $config['smtp_password'] = '';  //Измените пароль.
         $config['smtp_from']     = 'no-reply@pointblank.pw'; //Ваше имя - или имя Вашего сайта. Будет показывать при прочтении в поле "От кого".
         //Обычно эти настройки менять не стоит
         $config['smtp_host']     = 'localhost';  //Сервер для отправки почты (для наших клиентов менять не требуется).
